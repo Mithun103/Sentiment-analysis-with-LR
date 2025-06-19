@@ -1,5 +1,6 @@
-# Sentiment-analysis-with-LR
-
+# Sentiment-analysis-with-NAIVE-BAYES-ALGORITHM
+## NAME: Mithun M S
+## REGNO:212222240067
 ## AIM:
 To develop a sentiment analysis model that classifies text as positive or negative using Natural Language Processing (NLP) and the Naive Bayes algorithm.
 
